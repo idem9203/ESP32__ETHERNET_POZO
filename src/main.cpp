@@ -21,8 +21,8 @@ unsigned int ESTADO;
 
 //Parameters
 String request ;
-char ssid[10]  = "TIGO-4EA0";
-char password[13]  = "2NB112100448";
+char ssid[10]  = "N DE WIFI";
+char password[13]  = "CONTRASEÑA";
 String nom  = "ESP32";
 //Objects
 WiFiServer server(3000);
